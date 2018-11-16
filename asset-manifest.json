@@ -1,14 +1,14 @@
 {
-  "main.css": "/testing-gh-pages/static/css/main.1531578b.chunk.css",
-  "main.js": "/testing-gh-pages/static/js/main.3ad1b822.chunk.js",
-  "main.js.map": "/testing-gh-pages/static/js/main.3ad1b822.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/testing-gh-pages/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/testing-gh-pages/static/js/1.2dd891c4.chunk.js.map",
-  "runtime~main.js": "/testing-gh-pages/static/js/runtime~main.a4d1ce90.js",
-  "runtime~main.js.map": "/testing-gh-pages/static/js/runtime~main.a4d1ce90.js.map",
-  "static/media/logo.svg": "/testing-gh-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.1531578b.chunk.css.map": "/testing-gh-pages/static/css/main.1531578b.chunk.css.map",
-  "index.html": "/testing-gh-pages/index.html",
-  "precache-manifest.003afbc82823f4ebe64c1687947ae556.js": "/testing-gh-pages/precache-manifest.003afbc82823f4ebe64c1687947ae556.js",
-  "service-worker.js": "/testing-gh-pages/service-worker.js"
+  "main.css": "hokie-host.com/static/css/main.1531578b.chunk.css",
+  "main.js": "hokie-host.com/static/js/main.835d1e9f.chunk.js",
+  "main.js.map": "hokie-host.com/static/js/main.835d1e9f.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "hokie-host.com/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "hokie-host.com/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "hokie-host.com/static/js/runtime~main.1a894a6d.js",
+  "runtime~main.js.map": "hokie-host.com/static/js/runtime~main.1a894a6d.js.map",
+  "static/media/logo.svg": "hokie-host.com/static/media/logo.5d5d9eef.svg",
+  "static/css/main.1531578b.chunk.css.map": "hokie-host.com/static/css/main.1531578b.chunk.css.map",
+  "index.html": "hokie-host.com/index.html",
+  "precache-manifest.c04ab57ccedf65725a3a15fd2cfefb10.js": "hokie-host.com/precache-manifest.c04ab57ccedf65725a3a15fd2cfefb10.js",
+  "service-worker.js": "hokie-host.com/service-worker.js"
 }
